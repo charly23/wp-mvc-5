@@ -2,7 +2,7 @@
 {    
     class form extends input
     {
-          public static $slug = 'wp_gcf';
+          public static $slug = 'wp_mvc';
 
           var $html = null;
 
